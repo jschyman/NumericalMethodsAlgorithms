@@ -1,4 +1,6 @@
-Function for finding the root using the false position method
+# False Position Algorithm
+
+Function for finding the root of a function using the false position method
 
 Input:
   
