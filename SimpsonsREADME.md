@@ -4,7 +4,11 @@ and one trapezoidal rule.  If there is a even number of segments the
 function will use only the 1/3rd simpson's rule.
 
 Inputs:
+  
   x = x vector
+  
   y = y vector
+
 Outputs:
+  
   I = integral
